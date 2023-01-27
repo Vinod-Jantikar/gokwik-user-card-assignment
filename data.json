@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "image":"https://picsum.photos/200",
+            "designation": "Full Stack Developer",
+            "title": "Developer",
+            "new": "NEW!",
+            "feature": "FEATURED",
+            "last": "1d ago",
+            "job": "Part Time",
+            "work": "Remote",
+            "skills": ["Frontend","Senior", "HTML", "CSS", "JavaScript"]
+        },
+        {
+            "id": "2",
+            "image":"https://picsum.photos/200",
+            "designation": "Full Stack Developer",
+            "title": "Developer",
+            "new": "NEW!",
+            "feature": "FEATURED",
+            "last": "1d ago",
+            "job": "Part Time",
+            "work": "Remote",
+            "skills": ["Frontend","Junior", "HTML", "CSS", "JavaScript"]
+        },
+        {
+            "id": "3",
+            "image":"https://picsum.photos/200",
+            "designation": "Full Stack Developer",
+            "title": "Developer",
+            "new": "NEW!",
+            "feature": "FEATURED",
+            "last": "1d ago",
+            "job": "Part Time",
+            "work": "Remote",
+            "skills": ["Frontend","Python", "HTML", "CSS", "JavaScript"]
+        }, 
+        {
+            "id": "4",
+            "image":"https://picsum.photos/200",
+            "designation": "Full Stack Developer",
+            "title": "Developer",
+            "new": "NEW!",
+            "feature": "FEATURED",
+            "last": "1d ago",
+            "job": "Part Time",
+            "work": "Remote",
+            "skills": ["Backend","React", "HTML", "CSS", "JavaScript"]
+        }
+      
+    ]
+}
